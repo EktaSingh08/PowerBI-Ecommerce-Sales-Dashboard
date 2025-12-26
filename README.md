@@ -7,9 +7,8 @@ The dashboards focus on understanding revenue trends, customer behavior, product
 
 ## Dashboards Included
 1. Amazon Sales Analytics Dashboard   
-2. Flipkart Sales Performance Dashboard   
-3. Madhav E-commerce Sales Dashboard
-
+2. Flipkart Sales Performance Dashboard
+   
 ## Primary Dashboard – Amazon Sales Analytics
 
 This repository primarily showcases the Amazon Sales Analytics Dashboard.
