@@ -8,7 +8,18 @@ The dashboards focus on understanding revenue trends, customer behavior, product
 ## Dashboards Included
 1. Flipkart Sales Performance Dashboard  
 2. Amazon Sales Analytics Dashboard  
-3. Madhav E-commerce Sales Dashboard  
+3. Madhav E-commerce Sales Dashboard
+
+## Primary Dashboard – Amazon Sales Analytics
+
+This repository primarily showcases the Amazon Sales Analytics Dashboard.
+The dashboard focuses on:
+- Overall sales, profit, and order performance
+- Monthly sales and profit trends
+- Regional and state-wise analysis
+- Customer segments and payment method preferences
+- Category and sub-category performance
+- Identification of high-performing and low-performing areas for business decisions
 
 ## Business Problems Addressed
 - Identifying top-performing product categories
