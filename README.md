@@ -39,8 +39,8 @@ Key focus areas include:
 
 ### Flipkart Dashboard Preview
 
-![Flipkart Dashboard](screenshots/Flipkart_dashboard-1.png)
 ![Flipkart Dashboard](screenshots/Flipkart_dashboard-2.png)
+![Flipkart Dashboard](screenshots/Flipkart_dashboard-3.png)
 
 
 
