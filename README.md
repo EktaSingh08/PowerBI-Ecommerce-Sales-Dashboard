@@ -27,6 +27,22 @@ The dashboard focuses on:
 ![Amazon Dashboard](screenshots/Amazon_dashboard-2.png)
 ![Amazon Dashboard](screenshots/Amazon_dashboard-3.png)
 
+## Secondary Dashboard – Flipkart Sales Performance
+
+The Flipkart dashboard provides additional insights into e-commerce sales patterns and complements the primary Amazon analysis.
+
+Key focus areas include:
+- Category-wise sales performance
+- Payment method preferences
+- State-wise order distribution
+- Identification of strong and weak sales segments
+
+### Flipkart Dashboard Preview
+
+![Flipkart Dashboard](screenshots/Flipkart_dashboard-1.png)
+![Flipkart Dashboard](screenshots/Flipkart_dashboard-2.png)
+
+
 
 ## Business Problems Addressed
 - Identifying top-performing product categories
