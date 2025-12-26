@@ -6,8 +6,8 @@ This repository contains multiple Power BI dashboards built to analyze e-commerc
 The dashboards focus on understanding revenue trends, customer behavior, product performance, and regional insights.
 
 ## Dashboards Included
-1. Flipkart Sales Performance Dashboard  
-2. Amazon Sales Analytics Dashboard  
+1. Amazon Sales Analytics Dashboard   
+2. Flipkart Sales Performance Dashboard   
 3. Madhav E-commerce Sales Dashboard
 
 ## Primary Dashboard – Amazon Sales Analytics
