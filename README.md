@@ -21,6 +21,13 @@ The dashboard focuses on:
 - Category and sub-category performance
 - Identification of high-performing and low-performing areas for business decisions
 
+  ### Amazon Dashboard Preview
+
+![Amazon Dashboard](screenshots/Amazon_dashboard-1.png)
+![Amazon Dashboard](screenshots/Amazon_dashboard-2.png)
+![Amazon Dashboard](screenshots/Amazon_dashboard-3.png)
+
+
 ## Business Problems Addressed
 - Identifying top-performing product categories
 - Analyzing sales and profit trends over time
